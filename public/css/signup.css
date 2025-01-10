@@ -1,0 +1,104 @@
+.signup-child {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+}
+.signup-child {
+  left: 0;
+  object-fit: cover;
+}
+.hi-there,
+.welcome-back {
+ margin: 1rem auto;
+  font-size: 25px;
+  color: var(--color-darkslateblue);
+}
+.welcome-back {
+  top: 48px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.group-child::placeholder{
+  text-align: left;
+  /* font-size: var(--font-size-xl); */
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+}
+.group-child {
+  border-radius: var(--br-xs)!important;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 100%;
+  height: 55px;
+  padding-left: 4rem;
+
+}
+.iconlylight-outlinemessage {
+  position: absolute;
+    height: 100%;
+    width: 35px;
+    left: 1rem;
+    z-index: 5;
+}
+.input-group {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.form-control:focus {
+  box-shadow: none;
+}
+
+
+.rectangle-group {
+  position: absolute;
+  top: 24px;
+  left: 18px;
+  width: 146px;
+  height: 31px;
+}
+.rectangle-group {
+  top: 215px;
+  left: 0;
+  width: 483px;
+  height: 78px;
+}
+
+.rectangle-button {
+  border-radius: 39px;
+  font-size: 24px;
+  color: var(--color-white);
+  background: linear-gradient(219.34deg, #0570e0, #022181);
+  box-shadow: 0 4px 21px 2px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  height: 60px;
+  border: 0;
+}
+
+.already-have-an,
+.register {
+  font-weight: 500;
+}
+.login {
+  color: #022181;
+}
+.already-have-an-container {
+  font-size: var(--font-size-xl);
+    color: #333;
+    text-align: center;
+    margin-top: 1rem;
+}
+.group-div {
+  position: relative;
+  background: #fff;
+  padding: 3rem 5rem;
+  /* width: 40%; */
+  margin: auto;
+  top: 5rem;
+  border-radius: 20px!important;
+}
+.signup {
+  /* font-size: var(--font-size-xl); */
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+}

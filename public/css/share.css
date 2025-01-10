@@ -1,0 +1,135 @@
+:root {
+    /* fonts */
+    --font-poppins: Poppins;
+  
+    /* font sizes */
+    --font-size-2xs-8: 10.8px;
+    --font-size-mid-6: 17.6px;
+    --font-size-3xl: 22px;
+  
+    /* Colors */
+    --color-whitesmoke-100: #f4f4f4;
+    --color-royalblue-100: #0570e0;
+    --color-royalblue-200: rgba(5, 112, 224, 0.05);
+    --color-white: #fff;
+    --color-gray: #1e1e1e;
+  
+    /* Border radiuses */
+    --br-base-4: 15.4px;
+    --br-23xl-8: 42.8px;
+    --br-lgi-8: 19.8px;
+  }
+
+  .choose-account-type,.choose-account-type-box {
+    position: relative  ;
+    top: 3rem;
+    left: 0;
+  }
+  .choose-account-type.title{
+    top: 8rem;
+  }
+  .choose-account-type-box {
+    border-radius: 21.95px;
+    backdrop-filter: blur(26.34px);
+  
+  }
+  /* //Custom select radio div css */
+  
+  .mainbox label  .box {
+    padding: 16px;
+    border-radius: 8px;
+    background-color: var(--color-white);
+    box-shadow: 0 6.584958076477051px 96.58px 2.19px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    transition: all 0.25s ease;
+  }
+  #one:checked ~ label .first,
+  #two:checked ~ label .second,
+  #three:checked ~ label .third,
+  #four:checked ~ label .fourth {
+    border: 2.2px solid var(--color-royalblue-100);
+
+    background: #fff;
+  }
+  /* .mainbox label .box:hover {
+    background-color: var(--color-whitesmoke-100);
+  } */
+  .mainbox label .box .circle {
+    height: 1.5rem;
+    width: 1.5rem;
+    background: #CBCBCB;
+    border: 3px solid transparent;
+    display: inline-block;
+    margin-right: 15px;
+    border-radius: 50%;
+    transition: all 0.25s ease;
+    box-shadow: inset 29px 37px 10px #fff;
+  }
+  #one:checked ~ label .first .circle,
+  #two:checked ~ label .second .circle,
+  #three:checked ~ label .third .circle,
+  #four:checked ~ label .fourth .circle {
+    border-color: #0570E0;
+  }
+  .mainbox label .box .plan {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    font-size: 24px;
+  }
+  .price {
+    font-size: 24px;
+  }
+  .mainbox input[type="radio"] {
+    display: none;
+  }
+  /* //End// */
+  .headercard {
+    display: flex;
+    align-items: center;
+  }
+  .shareTitle {
+    color: black; 
+    font-size: 19.79px; 
+    font-family: Oxygen; 
+    font-weight: 700; 
+    word-wrap: break-word;
+    margin-top: 1rem;
+  
+  }
+  .agency-account {
+    color: black;
+    font-size: 19.79px;
+    font-family: Oxygen;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+.cardbody {
+    padding: 1.5rem 2.5rem 0 2.5rem;
+    color: black;
+    font-size: 15.83px;
+    font-family: Oxygen;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.grantbutton {
+  border-radius: 55.5px;
+  background: linear-gradient(219.34deg, #0570e0, #022181);
+  box-shadow: 0 4.38997220993042px 23.05px 2.19px rgba(0, 0, 0, 0.15);
+  width: 215px;
+  height: 45px;
+  font-family: Poppins;
+  font-weight: 300;
+  color: #fff;
+  border: 0;
+}
+.inputData {
+  border: 0.7px solid var(--light-grey)!important;
+  border-radius: 4px;
+  width: 100%;
+  padding: 0.5rem;
+}
+.inputData:focus-visible {
+  outline: none;
+}

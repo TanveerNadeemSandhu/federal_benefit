@@ -1,0 +1,88 @@
+:root {
+    --font-montserrat: Montserrat;
+    --font-oxygen: Oxygen;
+    --font-pingfang-sc: "PingFang SC";
+    --font-size-2xs-5: 10.5px;
+    --font-size-4xl-4: 23.4px;
+    --font-size-base-7: 15.7px;
+    --font-size-mid-9: 17.9px;
+    --font-size-2xs: 11px;
+    --font-size-smi: 13px;
+    --font-size-5xs: 8px;
+    --color-white: #fff;
+    --color-black: #000;
+    --color-gray-100: #1f263e;
+    --color-gray-200: rgba(0, 0, 0, 0.49);
+    --color-royalblue-100: #0570e0;
+    --color-palevioletred: #f56c89;
+    --color-darkslategray-100: #303750;
+    --color-gainsboro: #d8d8d8;
+    --color-lightskyblue: #50b8e4;
+    --br-xs: 12px;
+    --br-base-8: 16.8px;
+    --br-mini: 15px;
+    --br-6xs: 7px;
+}
+
+.cardc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 16.78px;
+    background-color: var(--color-white);
+    border: 1.1px solid var(--color-royalblue-100);
+    box-sizing: border-box;
+    width: 255px;
+    height: 272px;
+}
+
+.cardc .tag {
+    border-radius: var(--br-xs);
+    background-color: var(--color-white);
+    box-shadow: 0 4px 34px rgba(0, 0, 0, 0.1);
+    width: 98px;
+    height: 24px;
+    align-self: end;
+    margin: 0.8rem;
+}
+
+
+.cardc .circle1, .cardc .circle2, .cardc .circle3, .cardc .circle4 {
+    border-radius: 50%;
+    width: 71.58px;
+    height: 71.58px;
+    font-size: var(--font-size-4xl-4);
+    color: var(--color-white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cardc .circle1{
+    background-color: #f7931a;
+
+}
+.cardc .circle2{
+    background-color: #263238;
+}
+.cardc .circle3{
+    background-color: var(--color-palevioletred);
+}
+.cardc .circle4{
+    background-color: #976cff
+}
+.cardc .title {
+    color: black;
+    font-size: 17.89px;
+    font-family: Oxygen;
+    font-weight: 700;
+    word-wrap: break-word;
+    margin: 10px 0;
+
+}
+
+.cardc .des {
+    font-size: 15.66px;
+    display: inline-block;
+    color: var(--color-gray-200);
+    padding-bottom: 2rem;
+}

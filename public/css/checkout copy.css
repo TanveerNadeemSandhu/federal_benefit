@@ -1,0 +1,77 @@
+:root {
+    /* fonts */
+    --font-poppins: Poppins;
+
+    /* font sizes */
+    --font-size-xl: 20px;
+    --font-size-5xl: 24px;
+
+    /* Colors */
+    --color-whitesmoke-100: #f4f4f4;
+    --color-white: #fff;
+    --color-gray: rgba(30, 30, 30, 0.2);
+
+    /* Border radiuses */
+    --br-lgi-8: 19.8px;
+  }
+  .background-image {
+    background-image: url('../images/checkout/rectangle-1@2x.png'); /* Add your background image URL here */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+.formCheckout {
+    border-radius: 21.95px;
+    padding: 3rem 4rem;
+  background-color: var(--color-white)!important;
+  box-shadow: 0 6.584958076477051px 96.58px 2.19px rgba(0, 0, 0, 0.15);
+}
+.formCheckout input{
+  border-radius: 13.75px;
+    background-color: var(--color-whitesmoke-100);
+    height: 70px;
+}
+.formCheckout input::placeholder {
+  font-size: var(--font-size-5xl);
+    color: var(--color-gray);
+    font-family: var(--font-poppins);
+}
+.formCheckout input:focus {
+  box-shadow: none;
+}
+.formCheckout .cancel {
+  border-radius: 42px;
+  background-color: #f8f8f8;
+  width: 163px;
+  height: 84px;
+  font-size: var(--font-size-xl);
+  color: #0570e0;
+  margin-right: 12px;
+}
+.col-12 {
+  padding: 0!important;
+}
+.formCheckout .purchase {
+  border-radius: 55.5px;
+  background: linear-gradient(219.34deg, #0570e0, #022181);
+  box-shadow: 0 4.38997220993042px 23.05px 2.19px rgba(0, 0, 0, 0.15);
+  width: 300px;
+  height: 84px;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-xl);
+    color: var(--color-white);
+    border:0;
+}
+@media screen and (max-width:768px) {
+  .background-image {
+    height: auto;
+  }
+  .formCheckout {
+    padding: 2rem 2rem;
+  }
+}

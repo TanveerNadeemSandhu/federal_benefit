@@ -1,0 +1,120 @@
+[12-Aug-2024 18:41:09 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 18:41:09 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 18:41:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 18:41:41 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 18:41:41 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 18:41:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 18:43:53 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 18:43:53 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 18:43:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:42:44 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:42:44 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:42:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:42:59 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:42:59 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:42:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:45:47 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:45:47 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:45:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:46:25 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:46:25 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:46:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:47:23 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:47:23 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:47:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:47:29 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:47:29 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:47:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:49:40 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:49:40 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:49:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:54:52 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:54:52 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:54:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:54:57 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:54:57 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:54:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:55:00 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:55:00 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:55:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:56:31 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:56:31 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 19:56:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:01:38 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:01:38 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:01:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:10:08 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:10:08 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:10:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:18:32 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:18:32 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:18:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:36:31 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:36:31 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:36:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:37:28 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:37:28 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:37:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:41:56 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:41:56 UTC] PHP Warning:  require(/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34
+[12-Aug-2024 20:41:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uh1qngtcv5uc/engagedlearning.net/public/css/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uh1qngtcv5uc/engagedlearning.net/public/css/index.php on line 34

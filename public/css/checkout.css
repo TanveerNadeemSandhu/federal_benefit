@@ -1,0 +1,72 @@
+.background-image {
+  background-image: url('../images/checkout/rectangle-1@2x.png');
+  /* Add your background image URL here */
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.formCheckout {
+  border-radius: 21.95px;
+  padding: 3rem 2rem;
+  background-color: #fff !important;
+  box-shadow: 0 6.584958076477051px 96.58px 2.19px rgba(0, 0, 0, 0.15);
+}
+
+.formCheckout input {
+  border-radius: 8px;
+  background-color: #fff;
+  height: 40px;
+}
+
+.formCheckout input::placeholder {
+  font-size: 14px;
+  color: rgba(30, 30, 30, 0.2);
+  font-family: Poppins;
+}
+
+.formCheckout input:focus {
+  box-shadow: none;
+}
+
+.formCheckout .cancel {
+  border-radius: 42px;
+  background-color: #f8f8f8;
+  width: 145px;
+  height: 45px;
+  font-size: 20px;
+  color: #0570e0;
+  margin-right: 12px;
+}
+
+.col-12 {
+  padding: 0 !important;
+}
+
+.formCheckout .purchase {
+  border-radius: 55.5px;
+  background: linear-gradient(219.34deg, #0570e0, #022181);
+  box-shadow: 0 4.38997220993042px 23.05px 2.19px rgba(0, 0, 0, 0.15);
+  width: auto;
+  font-family: Poppins;
+  font-size: 18px;
+  color: #fff;
+  border: 0;
+  font-weight: 400;
+  padding: 10px 20px;
+}
+
+@media screen and (max-width:768px) {
+  .background-image {
+    height: auto;
+  }
+
+  .formCheckout {
+    padding: 2rem 2rem;
+  }
+}

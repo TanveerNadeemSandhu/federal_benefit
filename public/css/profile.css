@@ -1,0 +1,72 @@
+.profileimage {
+    width: 150px;
+    height: 150px;
+    margin: -7rem 0 0 5rem;
+    border-radius: 9999px;
+    border: 4px white solid;
+    object-fit: cover;
+    /*cursor: pointer;*/
+}
+
+.profilebanner {
+    width: 100%;
+    height: 100%;
+    box-shadow: 0px 4px -1px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+        height: 190px;
+    object-fit: cover;
+}
+
+.profile {
+    color: #1E1E1E;
+    font-size: 16px;
+    font-family: Poppins;
+    word-wrap: break-word;
+
+}
+
+.profile .mail {
+    font-weight: 700;
+}
+
+.profile .des {
+    font-weight: 500;
+}
+
+.profile .form-control, .profile textarea {
+    margin-bottom: 10px;
+    color: #1e1e1e;
+    /* font-size: 20px; */
+    font-family: Poppins;
+    width: 100%;
+    background: white;
+    border-radius: 13px;
+    border: 1px rgba(31.10, 38.29, 61.76, 0.40) solid;
+}
+.profile .form-control {
+    height: 55px;
+
+}
+.saveProfile {
+    width: 100%;
+    height: 45px;
+    background: linear-gradient(227deg, #0570E0 0%, #022181 100%);
+    box-shadow: 0px 4.38997220993042px 23.047353744506836px 2.19498610496521px rgba(0, 0, 0, 0.15);
+    border-radius: 55.5px;
+    color: #fff;
+    border: none;
+}
+@media screen and (max-width:768px) {
+    .col-sm-12, .col-12 {
+        padding: 0;
+    }
+    .profile{
+        padding-left: 2.5rem;
+    }
+    .profileimage {
+        width: 120px;
+        height: 120px;
+        margin: -4rem 0 0 5rem;
+    }
+    
+}

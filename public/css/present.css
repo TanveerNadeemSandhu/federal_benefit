@@ -1,0 +1,166 @@
+body {
+  background-color: #f3f6fe!important;
+}
+.dashboard-app {
+  margin-top: 0;
+}
+#showStatus {
+  padding: 4px 20px!important;
+}
+.case img {
+  margin-right: 4px;
+}
+.case {
+  background: linear-gradient(207deg, #0570E0 0%, #022181 100%);
+  border-radius: 1rem;
+  border: none;
+  font-weight: 600;
+  font-size: 12px;
+  color: var(--shades-0);
+  padding: 6px 11px;
+}
+.new button {
+  color: white; 
+  font-size: 15.05px; 
+  font-family: Montserrat; 
+  font-weight: 500; 
+  line-height: 15.05px; 
+  word-wrap: break-word;
+  border: 0;
+  background: linear-gradient(119deg, #F56C89 0%, rgba(255, 255, 255, 0) 100%); 
+  padding: 8px 17px;
+  border-radius: 20px;
+}
+.actionButton button {
+  font-size: 12px;
+  height: 100%;
+  background: rgba(244.97, 107.98, 136.69, 0.08);
+  border-radius: 25.5px;
+  border: 0;
+  padding: 2px 18px;
+  color: #F7931A;
+  font-family: Montserrat;
+  font-weight: 500;
+  word-wrap: break-word;
+  margin-bottom: 4px;
+  margin-bottom: 4px;
+}
+.actionButton button:first-child {
+  color: #F56C89;
+}
+
+
+.dashboard-content  {
+  padding-top: 0!important;
+}
+.printHeader {
+  position: fixed;
+  width: -webkit-fill-available;
+  background: #f3f6fe;
+  box-shadow: none;
+  display: flex;
+  padding: 1rem 1.5rem 1rem 0;
+  z-index: 1;
+  top: 0;
+}
+.navpre {
+  padding: 10px;
+} 
+.label {
+  color: #fff;
+  font-weight: 500;
+  font-size: 14px;
+  /* margin-top: 10px; */
+}
+.inputData, .label {
+  font-family: Montserrat;
+  /* width: 1rem; */
+}
+.inputData  {
+  border-radius: 12px;
+  width: 9.1rem;
+  height: 22px;
+  float: right;
+  padding: 8px;
+}
+.form-group span {
+  float: right;
+}
+.present {
+  position: relative;
+  top: 2rem;
+  z-index: 0;
+}
+.group, .formgroup{
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  margin-bottom: 8px;
+}
+.navpre button{
+  border: 1px solid #fff;
+  background-color: transparent;
+  border-radius: 20px;
+  color: #fff;
+}
+.navpre textarea {
+  margin-top: 0.2rem;
+}
+@media (min-width: 992px){
+.dashboard-app {
+  margin-left: 287px!important;
+}
+}
+@media screen and (max-width:568px) {
+  .actionButton button{
+    padding: 3px 13px;
+    height: 22px;
+    font-size: 8px;
+  }
+  .dashboard-app {
+    margin-left: 2rem;
+  }
+}
+/* .dashboard-app {
+  margin-left: 280px;
+}
+.dashboard-nav {
+  min-width: 292px;
+} */
+
+.fa-eye,.fa-eye-slash{
+  font-size: 12px;
+  cursor: pointer;
+}
+@media print {
+  /* .dashboard-nav {
+    display: block!important;
+    min-width: 292px!important;
+    background-color: var(--color-gray-100)!important;
+    width: 1rem;
+  } */
+  /* .graph.incomeShow {
+    display: block;
+  } */
+  .menu-toggle{
+    display: none;
+  }
+  .graph.incomeHide {
+    visibility: hidden;
+  }
+  .graph.expensesHide {
+    visibility: hidden;
+  }
+  .graph.cummulativeHide {
+    visibility: hidden;
+  }
+  .graph.tspHide {
+    visibility: hidden;
+  }
+  .actionButton {
+    display: none;
+  }
+  .printHeader img {
+    display: none;
+  }
+}
